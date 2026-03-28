@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import ProjectsGrid from "./components/ProjectsGrid";
 import ContactForm from "./components/ContactForm";
-import Skills from "./components/Skills";
+import Skills from "./components/Skillstemp";
 import { Toaster } from "react-hot-toast";
 
 
